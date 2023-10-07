@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Ig-Task/static/css/main.7e9f8f71.css",
+    "main.js": "/Ig-Task/static/js/main.746fd7bb.js",
+    "static/media/mask-group.png": "/Ig-Task/static/media/mask-group.c52351fc1d3ea89f4df3.png",
+    "static/media/popular-course.png": "/Ig-Task/static/media/popular-course.7eccb07b2de3ee020eba.png",
+    "static/media/imagess.png": "/Ig-Task/static/media/imagess.46081ae94cf4acd72081.png",
+    "static/media/pattern-1.png": "/Ig-Task/static/media/pattern-1.9f8298be4afdacda6f34.png",
+    "static/media/revicons.eot": "/Ig-Task/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Ig-Task/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Ig-Task/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/bg-2.svg": "/Ig-Task/static/media/bg-2.3c334f0553bac46309999c188da5aa58.svg",
+    "static/media/rounded-rectangle-528-copy-1.svg": "/Ig-Task/static/media/rounded-rectangle-528-copy-1.5ef5ba0dd7025ecb110b.svg",
+    "static/media/rounded-rectangle-528-copy-2.svg": "/Ig-Task/static/media/rounded-rectangle-528-copy-2.7ba89fed96e5f5f63be7.svg",
+    "static/media/rounded-rectangle-528-copy-3.svg": "/Ig-Task/static/media/rounded-rectangle-528-copy-3.0ab163d8d03f0d7ce61a.svg",
+    "static/media/active.svg": "/Ig-Task/static/media/active.0df3221ebe3cf67c84bb51583176bd4f.svg",
+    "static/media/eye-1.svg": "/Ig-Task/static/media/eye-1.c48a18961dca1aa12659acb292149f78.svg",
+    "static/media/close-1.svg": "/Ig-Task/static/media/close-1.66e1b71ea81a35445e7ec67ffa85c310.svg",
+    "static/media/combined-shape-15711.svg": "/Ig-Task/static/media/combined-shape-15711.6dcf2042b6b1b52f53cee60a6599be2e.svg",
+    "static/media/combined-shape-16072.svg": "/Ig-Task/static/media/combined-shape-16072.d1fb4923cbacd575b2c22975da5315ae.svg",
+    "index.html": "/Ig-Task/index.html",
+    "static/media/combined-shape-16074-2.svg": "/Ig-Task/static/media/combined-shape-16074-2.b0576148c58774bd6321367829441e9f.svg",
+    "static/media/combined-shape-16073.svg": "/Ig-Task/static/media/combined-shape-16073.37f2079144a7fafcdadf01220b8f3e57.svg",
+    "main.7e9f8f71.css.map": "/Ig-Task/static/css/main.7e9f8f71.css.map",
+    "main.746fd7bb.js.map": "/Ig-Task/static/js/main.746fd7bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e9f8f71.css",
+    "static/js/main.746fd7bb.js"
+  ]
+}
