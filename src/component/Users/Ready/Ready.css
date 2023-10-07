@@ -1,0 +1,33 @@
+.Ready-box{
+    margin-top: 10vw;
+}
+
+.Ready-box h1{
+    color: #02073E;
+text-align: center;
+font-family: DM Sans;
+font-size: 3.125rem;
+font-style: normal;
+font-weight: 700;
+line-height: 4.0625rem; /* 130% */
+letter-spacing: -0.125rem;
+}
+
+
+.Ready-box p{
+border-radius: 0.3125rem;
+background: #FCF2E8;
+color: #EF9E48;
+font-family: DM Sans;
+font-size: 1rem;
+font-style: normal;
+font-weight: 700;
+line-height: 1.5rem; /* 150% */
+letter-spacing: -0.01rem;
+width: 12%;
+margin-left: 42vw;
+text-align: center;
+
+
+    
+}

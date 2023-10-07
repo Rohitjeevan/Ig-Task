@@ -1,0 +1,56 @@
+/* Footer.css */
+
+.Footer-Box {
+    padding: 80px 60px;
+    margin-top: 10vw;
+    bottom: 0;
+
+  
+   
+  }
+  
+  .Container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+     margin-left: 15vw;
+
+  }
+  
+  .Column {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 60px;
+  }
+  
+  .Row {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(185px, 1fr));
+    grid-gap: 20px;
+  
+    @media (max-width: 1000px) {
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    }
+  }
+  
+  .FooterLink {
+    color: black;
+    margin-bottom: 20px;
+    font-size: 18px;
+    text-decoration: none;
+  }
+  
+  .FooterLink:hover {
+    color: green;
+    transition: 200ms ease-in;
+  }
+  
+  .Heading {
+    font-size: 1.3rem;
+    color: black;
+    margin-bottom: 40px;
+    font-weight: bold;
+    font-family: sans-serif;
+  }
+  

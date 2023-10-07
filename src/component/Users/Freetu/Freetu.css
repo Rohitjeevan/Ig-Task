@@ -1,0 +1,89 @@
+
+
+.free-tut{
+
+    /* border: 2px solid green; */
+    height: 60vh;
+    margin-top: 10vw;
+    display: flex;
+
+}
+
+.free-heading{
+ color: #EF9E48;
+font-family: DM Sans;
+font-size: 0.875rem;
+font-style: normal;
+font-weight: 700;
+line-height: 2.5rem; /* 285.714% */
+letter-spacing: 0.13125rem;
+text-transform: uppercase;
+}
+.item-1{
+     width: 40%;
+     height: 45vh;
+     /* border: 2px solid black; */
+     margin-left: 10vw;
+     margin-top: 5vw;
+}
+.item-2{
+    width: 40%;
+    height: 45vh;
+    /* border: 2px solid black; */
+    margin-left: 5vw;
+    margin-top: 5vw;
+}
+
+
+.item-2 h1{
+    color: #0F2137;
+    font-family: sans-serif;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 2.4375rem; /* 114.583% */
+    letter-spacing: -0.09375rem; 
+}
+
+
+.free-para{
+color: #02073E;
+font-family: DM Sans;
+font-size: 1.125rem;
+font-style: normal;
+font-weight: 400;
+line-height: 1.625rem; /* 233.333% */
+}
+
+.item-2 button {
+color: #EF9E48;
+background-color: #FCF2E8;;
+font-family: DM Sans;
+font-size: 1rem;
+font-style: normal;
+font-weight: 700;
+line-height: 1.5rem; /* 150% */
+letter-spacing: -0.01rem;
+width: 20vh;
+border: none;
+margin-top: 1vw;
+}
+
+.convert{
+    color: #0F2137;
+    font-family: sans-serif;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.875rem; /* 150% */
+}
+
+
+.watched{
+color: #343D48;
+font-family: sans-serif;
+font-size: 0.8rem;
+font-style: normal;
+font-weight: 400;
+line-height: 1.625rem; /* 162.5% */
+}

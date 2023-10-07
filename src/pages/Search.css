@@ -1,0 +1,31 @@
+/* SearchBox.css */
+
+.search-box {
+    
+    margin-top: 1vw;
+    display: flex;
+    align-items: center;
+    width: 30vw; /* Adjust the width as needed */
+    /* border: 1px solid #ccc; */
+    border-radius: 5px;
+    padding: 5px;
+    background-color: 1px solid #ffff;
+  }
+  
+  input {
+    flex: 2;
+    border: none;
+    outline: none;
+    padding: 8px;
+    height: 5vh;
+    border-radius: 5px;
+  }
+
+  .search-icon {
+    /* position: absolute; */
+    
+    color: black;
+    cursor: pointer;
+    margin-left: -5vh;
+  }
+  
